@@ -1,3 +1,7 @@
+<img width="716" alt="Screen Shot 2021-03-10 at 9 32 06 AM" src="https://user-images.githubusercontent.com/74215165/110645438-f53c4a00-8183-11eb-9ae2-333522e863eb.png">
+<img width="716" alt="Screen Shot 2021-03-10 at 9 31 10 AM" src="https://user-images.githubusercontent.com/74215165/110645469-fb322b00-8183-11eb-9654-71bcaf0791c1.png">
+
+
 # JavaScript Homework - JavaScript and DOM Manipulation
 
 ## Background
